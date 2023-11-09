@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Techandstories.com",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "",
     "siteUrl": "https://foundation.stackrole.com",
     "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "iconimage": "/assets/2023-11-09-02.19.10.jpg",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
