@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Techandstories.com
 tagline: Everyday tech
-featuredImage: /assets/dscf1273.jpg
+featuredImage: /assets/2023-11-09-02.19.10.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
