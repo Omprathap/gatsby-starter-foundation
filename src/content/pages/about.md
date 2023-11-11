@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: FROM THE EDITOR
+title: LETTER FROM THE EDITOR
 ---
 #### To the readers,
 
